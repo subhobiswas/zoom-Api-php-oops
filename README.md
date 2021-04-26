@@ -11,7 +11,8 @@ https://zoom.us/
 offcial documentation
 https://marketplace.zoom.us/docs/guides/auth/jwt
 
-install
+#install
+
 step 1
 
 create a folder call "zoom" in your htdocs folder (if you have xampp setup)
