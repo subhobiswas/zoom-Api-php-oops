@@ -1,9 +1,11 @@
-# zoom-Api-php-oops
-a single php page with using firebase jwt auth . it allow you to create meeting ,list of all meeting,update meeting details ,delete meeting and report of meeting zoom meeting with api
+# zoom-Api-integration-php-oops
+simple way to handle zoom meeting by api php
+
+This is a single php page with using firebase JWT authentication .It allow you to create zoom meeting ,list of all meeting,update meeting details ,delete meeting and report of meeting zoom meeting with api
 
 first you need to create your zoom api (jwt auth)
 
-//zoom official site
+zoom official site
 https://zoom.us/
 
 //offcial documentation
