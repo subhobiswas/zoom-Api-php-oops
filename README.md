@@ -14,9 +14,13 @@ https://marketplace.zoom.us/docs/guides/auth/jwt
 install
 step 1
 
-clone this project
+create a folder call "zoom" in your htdocs folder (if you have xampp setup)
 
 step2
+
+clone this project or dowenload and extract into "zoom" folder
+
+step 3
 
 goto zoom official site and create jwt api 
 copy the api key and secrat key and replace this file in zoom_class.php
