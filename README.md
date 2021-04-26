@@ -8,7 +8,7 @@ first you need to create your zoom api (jwt auth)
 zoom official site
 https://zoom.us/
 
-//offcial documentation
+offcial documentation
 https://marketplace.zoom.us/docs/guides/auth/jwt
 
 install
@@ -23,4 +23,8 @@ copy the api key and secrat key and replace this file in zoom_class.php
 
 step3
 
-run the file in any webserver
+Run the file in any webserver locate index.php
+
+
+you can also create more function 
+https://marketplace.zoom.us/docs/api-reference/zoom-api/meetings/
