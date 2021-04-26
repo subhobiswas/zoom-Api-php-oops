@@ -29,7 +29,10 @@ copy the api key and secrat key and replace this file in zoom_class.php
 step3
 
 Run the file in any webserver locate index.php
+
 http://localhost/zoom/index.php
+
+
 
 
 you can also create more function 
